@@ -38,6 +38,7 @@ cask "ghostty"
 cask "aerospace"
 cask "discord"
 cask "shottr"
+cask "bitwarden"
 
 # Fonts
 cask "font-jetbrains-mono-nerd-font"
